@@ -19,9 +19,9 @@ This guide should help you decide on the best possible network architecure for y
 
 ---
 
-## Azure VMware Solution Network Decistion Tree
+## Azure VMware Solution Network Decision Tree
 
-The decision tree helps you take the right network design.
+The decision tree helps you select the right network design.
 It is important that you think about the possible scenarios, that should be achieved using AVS.
 
 One common use case is e.g. sending traffic through an NVA or propagate a default route to AVS for outbound internet traffic.
